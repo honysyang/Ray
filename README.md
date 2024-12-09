@@ -1,6 +1,6 @@
 # PoC for a remote command execution vulnerability in Ray framework
 
-The Ray framework, an essential tool for Python-based AI and machine learning applications, has encountered a significant security challenge. In essence, Ray is like a Swiss Army knife for people working on AI and big data projects. Identified as CVE-2023-48022, this vulnerability specifically impacts the job submission API. The official description states that this flaw allows a remote attacker to execute arbitrary code, posing a considerable risk to systems utilizing these versions of Ray. This vulnerability's discovery has underscored the importance of robust security protocols in software frameworks, especially those integral to AI and ML projects with vast data and computational power.
+Ray is a high-performance distributed execution engine and an open-source artificial intelligence framework. Anyscale, Inc Ray Ray Versions 2.9.3 to 2.40.0 have a command execution vulnerability, which allows an attacker to execute arbitrary commands and control the host where the framework runs.
 
 ## Usage
 
