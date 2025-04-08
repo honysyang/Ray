@@ -2,6 +2,9 @@
 
 Ray is a high-performance distributed execution engine and an open-source artificial intelligence framework. Anyscale, Inc Ray Ray Versions 2.9.3 to 2.40.0 have a command execution vulnerability, which allows an attacker to execute arbitrary commands and control the host where the framework runs.
 
+# Demo
+ open this https://github.com/honysyang/Ray/blob/main/output(compress-video-online.com).mp4
+
 ## Usage
 
 First, install Ray:
